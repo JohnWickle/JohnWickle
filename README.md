@@ -18,11 +18,13 @@
 
 - 👯 Worked as a Front-end Developer on Collaborative Healthcare Clone Project. 
 
-- 🤝Worked as a Front-end Developer on Collaborative e-commerce Clone Project. 
+- 👯 Worked as a Front-end Developer on Collaborative WebGL Clone Project. 
+
+- 🤝 Worked as a Front-end Developer on Collaborative e-commerce Clone Project. 
 
 - 💬 Ask me about **React, Next, javascript, css, html and so on**
 
-- 📫 How to reach me **eaganjack770@gmail.com**
+- 📫 How to reach me **sprysoul0908@gmail.com**
 
 
 
