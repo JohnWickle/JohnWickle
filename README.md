@@ -1,5 +1,5 @@
 **Hello Sir, Thank you for visit my Github Repository** <br/><br/>
-<i>It's one piece of my successful project-this project was bootstrapped with [react.js, next.js, vue.js, typescript] </i>
+<i>It's one piece of my successful project-this project was bootstrapped with [React.js, Next.js, Remix.js, Angular.js, Gatsby, GraphQL, Restful API] </i>
 [![MasterHead](https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png)
 )]
 <span><h1 align="center"> 😇Hi, I'm a <b>React / Javascript Software Developer<b> <small> but sometimes back-end developer</small>) 👋</h1><span>
